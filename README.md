@@ -1,2 +1,2 @@
 # training_apps
- Pythong Training
+ Python Training
